@@ -1,0 +1,9 @@
+C:\Users\surface\Documents\Visual Studio 2019\Projects\TizenWearableApp1\TizenWearableApp1\bin\Debug\tizen40\腕上账本.deps.json
+C:\Users\surface\Documents\Visual Studio 2019\Projects\TizenWearableApp1\TizenWearableApp1\bin\Debug\tizen40\腕上账本.dll
+C:\Users\surface\Documents\Visual Studio 2019\Projects\TizenWearableApp1\TizenWearableApp1\bin\Debug\tizen40\腕上账本.pdb
+C:\Users\surface\Documents\Visual Studio 2019\Projects\TizenWearableApp1\TizenWearableApp1\obj\Debug\tizen40\腕上账本.csproj.CoreCompileInputs.cache
+C:\Users\surface\Documents\Visual Studio 2019\Projects\TizenWearableApp1\TizenWearableApp1\obj\Debug\tizen40\腕上账本.AssemblyInfoInputs.cache
+C:\Users\surface\Documents\Visual Studio 2019\Projects\TizenWearableApp1\TizenWearableApp1\obj\Debug\tizen40\腕上账本.AssemblyInfo.cs
+C:\Users\surface\Documents\Visual Studio 2019\Projects\TizenWearableApp1\TizenWearableApp1\obj\Debug\tizen40\XamlC.stamp
+C:\Users\surface\Documents\Visual Studio 2019\Projects\TizenWearableApp1\TizenWearableApp1\obj\Debug\tizen40\腕上账本.dll
+C:\Users\surface\Documents\Visual Studio 2019\Projects\TizenWearableApp1\TizenWearableApp1\obj\Debug\tizen40\腕上账本.pdb
